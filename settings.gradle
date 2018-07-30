@@ -1,0 +1,3 @@
+rootProject.name = 'com.lego.poweredup'
+include 'src'
+
